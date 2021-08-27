@@ -232,4 +232,5 @@ async def bot_info(bot, message):
 ○ 𝐍𝐁:-📗
 
 ○𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐨𝐭, 𝐧𝐨𝐭 𝐚 𝐡𝐮𝐦𝐚𝐧, 𝐨𝐧𝐥𝐲 𝐬𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐈𝐌𝐃𝐛 𝐧𝐚𝐦𝐞
+
 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 <a href="https://t.me/no_ones_like_me">𝐩𝐞𝐚𝐤𝐲 𝐛𝐥𝐢𝐧𝐝𝐞𝐫</a></b>""", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
