@@ -103,8 +103,8 @@ async def start(bot, cmd):
                         InlineKeyboardButton("⚠️  𝐣𝐨𝐢𝐧", url="https://t.me/subin_works/122")
                     ],
                     [
-                        InlineKeyboardButton("🤖 𝐚𝐛𝐨𝐮𝐭", callback_data="about"),
-                        InlineKeyboardButton("🧑‍💻 𝐜𝐫𝐞𝐚𝐭𝐨𝐫", url="https://t.me/no_ones_like_me")
+                        InlineKeyboardButton("🧑‍💻 𝐜𝐫𝐞𝐚𝐭𝐨𝐫", url="https://t.me/no_ones_like_me"),
+                        InlineKeyboardButton("🤖 𝐚𝐛𝐨𝐮𝐭", callback_data="about")
                       ]
                     ]
                  )
