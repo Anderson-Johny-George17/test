@@ -205,4 +205,18 @@ async def bot_info(bot, message):
             InlineKeyboardButton('Source Code', url='https://github.com/subinps/Media-Search-bot')
         ]
         ]
-    await message.reply(text="<b>Developer : <a href='https://t.me/subinps_bot'>SUBIN</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/subinps/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+    await message.reply(text="""<b>○ ᴍʏ ɴᴀᴍᴇ :  ᴘʀᴏғᴇssᴏʀ
+    
+○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
+
+○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ
+
+○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ
+
+○ ᴠᴇʀsɪᴏɴ : 1.0.0
+
+○ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/xxxtentacion_TG">xxxᴛᴇɴᴛᴀᴄɪᴏɴ</a>
+
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
+
+ᴜᴘᴅᴀᴛᴇ ᴏɴ 22-08-21 ɪɴᴅɪᴀɴ ᴛɪᴍᴇ 1:19 ᴘᴍ </b>""", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
