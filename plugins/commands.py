@@ -205,4 +205,8 @@ async def bot_info(bot, message):
             InlineKeyboardButton('Source Code', url='https://github.com/subinps/Media-Search-bot')
         ]
         ]
-    await message.reply(text="<b>Developer : <a href='https://t.me/subinps_bot'>SUBIN</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/subinps/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+    await message.reply(text="<b>○ 𝐢𝐭'𝐬 𝐍𝐨𝐭𝐞 𝐂𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝...🤓\n○  𝐒𝐞𝐚𝐫𝐜𝐡 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧𝐥𝐢𝐧𝐞 𝐦𝐨𝐝𝐞
+𝐓𝐡𝐢𝐬 𝐦𝐞𝐭𝐡𝐨𝐫𝐝 𝐰𝐨𝐫𝐤𝐬 𝐨𝐧 𝐚𝐧𝐲 𝐜𝐡𝐚𝐭, 𝐉𝐮𝐬𝐭 𝐭𝐲𝐩𝐞 @𝐓𝐆𝐌𝐨𝐯𝐢𝐞𝐑𝐨𝐛𝐨𝐭 𝐚𝐧𝐝 𝐭𝐡𝐞𝐧 𝐥𝐞𝐚𝐯𝐞 𝐚 𝐬𝐩𝐚𝐜𝐞 𝐚𝐧𝐝 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐲 𝐦𝐨𝐯𝐢𝐞 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭.\n○ 𝐈𝐧 𝐏𝐌
+𝐓𝐡𝐢𝐬 𝐢𝐬 𝐭𝐡𝐞 𝐞𝐚𝐬𝐢𝐞𝐬𝐭 𝐦𝐞𝐭𝐡𝐨𝐫𝐝 𝐟𝐨𝐫 𝐭𝐡𝐨𝐬𝐞 𝐰𝐡𝐨 𝐝𝐨 𝐧𝐨𝐭 𝐤𝐧𝐨𝐰 𝐡𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐢𝐧𝐥𝐢𝐧𝐞 𝐦𝐨𝐝𝐞. 𝐉𝐮𝐬𝐭 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐧𝐚𝐦𝐞 𝐨𝐟 𝐦𝐨𝐯𝐢𝐞 𝐭𝐨 𝐛𝐨𝐭. 
+𝐁𝐨𝐭 𝐰𝐢𝐥𝐥 𝐫𝐞𝐩𝐥𝐲 𝐰𝐢𝐭𝐡 𝐚 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐦𝐨𝐯𝐢𝐞𝐬 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐚𝐬 𝐛𝐮𝐭𝐭𝐨𝐧𝐬.
+𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐭𝐨 𝐠𝐞𝐭 𝐭𝐡𝐞 𝐦𝐨𝐯𝐢𝐞.\n○ 𝐍𝐁:-📗\n○𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐨𝐭, 𝐧𝐨𝐭 𝐚 𝐡𝐮𝐦𝐚𝐧, 𝐨𝐧𝐥𝐲 𝐬𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐈𝐌𝐃𝐛 𝐧𝐚𝐦𝐞\n𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 <a href='https://t.me/no_ones_like_me'>🄿🄴🄰🄺🅈</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
