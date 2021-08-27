@@ -99,17 +99,16 @@ async def start(bot, cmd):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("Other Bots", url="https://t.me/subin_works/122")
+                        InlineKeyboardButton(" 🔎 𝐬𝐞𝐚𝐫𝐜𝐡 𝐡𝐞𝐫𝐞", switch_inline_query_current_chat=''),
+                        InlineKeyboardButton("⚠️ 𝐣𝐨𝐢𝐧", url="https://t.me/subin_works/122")
                     ],
                     [
-                        InlineKeyboardButton("About", callback_data="about")
+                        InlineKeyboardButton("🤖 𝐚𝐛𝐨𝐮𝐭", callback_data="about")
+                        InlineKeyboardButton("𝐜𝐥𝐨𝐬𝐞", callback_data="close")
+                      ]
                     ]
-                ]
-            )
-        )
-
-
+                 )
+              )
 @Client.on_message(filters.command('channel') & filters.user(ADMINS))
 async def channel_info(bot, message):
     """Send basic information of channel"""
