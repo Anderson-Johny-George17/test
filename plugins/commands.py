@@ -215,8 +215,8 @@ async def bot_info(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('Source Code', url='https://github.com/subinps/Media-Search-bot')
+            InlineKeyboardButton('☃️ 𝐠𝐫𝐨𝐮𝐩', url='https://t.me/cinemazilla'),
+            InlineKeyboardButton('🌨 𝐜𝐡𝐚𝐧𝐧𝐞𝐥', url='https://t.me/joinchat/CXRICR1ok3ViZjk9')
         ]
         ]
     await message.reply(text="""<b>○ 𝐢𝐭'𝐬 𝐍𝐨𝐭𝐞 𝐂𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝...🤓
@@ -231,4 +231,5 @@ async def bot_info(bot, message):
 
 ○ 𝐍𝐁:-📗
 
-○𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐨𝐭, 𝐧𝐨𝐭 𝐚 𝐡𝐮𝐦𝐚𝐧, 𝐨𝐧𝐥𝐲 𝐬𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐈𝐌𝐃𝐛 𝐧𝐚𝐦𝐞</b>""", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+○𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐨𝐭, 𝐧𝐨𝐭 𝐚 𝐡𝐮𝐦𝐚𝐧, 𝐨𝐧𝐥𝐲 𝐬𝐞𝐧𝐝 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐜𝐨𝐫𝐫𝐞𝐜𝐭 𝐈𝐌𝐃𝐛 𝐧𝐚𝐦𝐞
+𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 </b>""", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
