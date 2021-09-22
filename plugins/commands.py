@@ -102,7 +102,7 @@ async def start(bot, cmd):
                 [
                     [
                         InlineKeyboardButton(" 🔎  𝐬𝐞𝐚𝐫𝐜𝐡 𝐡𝐞𝐫𝐞", switch_inline_query_current_chat=''),
-                        InlineKeyboardButton("⚠️  𝐣𝐨𝐢𝐧", url="https://t.me/subin_works/122")
+                        InlineKeyboardButton("⚠️  𝐣𝐨𝐢𝐧", url="Wasim")
                     ],
                     [
                         InlineKeyboardButton("🧑‍💻 𝐜𝐫𝐞𝐚𝐭𝐨𝐫", url="https://t.me/no_ones_like_me"),
