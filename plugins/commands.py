@@ -7,7 +7,7 @@ from utils import Media, get_file_details
 from pyrogram.errors import UserNotParticipant
 logger = logging.getLogger(__name__)
 
-Wasim = "https://t.me/wafikh"
+WASIM = "https://t.me/wafikh"
 
 @Client.on_message(filters.command("start"))
 async def start(bot, cmd):
