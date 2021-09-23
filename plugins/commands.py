@@ -193,8 +193,8 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('Source Code', url='https://github.com/subinps/Media-Search-bot')
+            InlineKeyboardButton('Movie Channel', url='https://t.me/joinchat/0NL8yWMlB2AxZGVl'),
+            InlineKeyboardButton('Source Code', url='https://t.me/angotmaariiri')
         ]
         ]
     await message.reply(text="""<b>○ ᴍʏ ɴᴀᴍᴇ :  ᴘʀᴏғᴇssᴏʀ
